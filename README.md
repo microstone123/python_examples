@@ -1,11 +1,11 @@
 # python_examples
 ### 该项目是python从初级到高级的课程,提供丰富的实例 
-#### 一:python安装环境了解 
-(1)pip/pip3区别 
-(2)python2.X与python3.X
-(3)anconda与conda的区别
-(4)docker环境编程
-二:python 常用IDE了解
+#### 一:python安装环境了解  
+(1)pip/pip3区别  
+(2)python2.X与python3.X  
+(3)anconda与conda的区别  
+(4)docker环境编程  
+#### 二:python 常用IDE了解
 (1)pycharm
 (2)sublime Text3(我喜欢用的)
 (3)Vscode
